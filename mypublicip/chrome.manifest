@@ -1,0 +1,8 @@
+content     mypublicip    chrome/content/
+content     mypublicip    chrome/content/ contentaccessible=yes
+overlay chrome://browser/content/browser.xul chrome://mypublicip/content/browser.xul
+
+locale	mypublicip	en-US	locale/en-US/
+
+skin	mypublicip	classic/1.0	skin/
+style	chrome://global/content/customizeToolbar.xul	chrome://mypublicip/skin/skin.css
