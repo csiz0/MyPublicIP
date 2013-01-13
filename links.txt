@@ -1,0 +1,1 @@
+https://developer.mozilla.org/en-US/docs/Creating_a_status_bar_extension

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <?xml-stylesheet href="chrome://mypublicip/skin/skin.css" type="text/css"?> 
 <!DOCTYPE mypublicip SYSTEM "chrome://mypublicip/locale/translations.dtd">
-<overlay id="sample" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+<overlay id="mypublicip-overlay" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
 		<script src="mypublicip.js" />
 		
 		<statusbar id="status-bar">
-			<statusbarpanel id="mypublicip-status-bar" label="---.---.---.---" tooltiptext="&runmypublicip;" onclick="mypublicip.run()" />
+			<statusbarpanel id="mypublicip-statusbarpanel" label="---.---.---.---" tooltiptext="&runmypublicip;" onclick="net.csiz.mypublicip.run()" />
 		</statusbar>
 		
 </overlay>

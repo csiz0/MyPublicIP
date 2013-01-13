@@ -1,1 +1,1 @@
-pref("extensions.mypublicip.autorun", false);
+pref("extensions.mypublicip.autorun", true);
