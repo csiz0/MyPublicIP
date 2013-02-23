@@ -1,1 +1,3 @@
 https://developer.mozilla.org/en-US/docs/Creating_a_status_bar_extension
+https://developer.mozilla.org/en-US/docs/Install_Manifests
+https://developer.mozilla.org/en-US/docs/Using_the_Clipboard
